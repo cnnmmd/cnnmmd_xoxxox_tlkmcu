@@ -9,7 +9,7 @@ This is a plugin for the following application:
 [https://github.com/cnnmmd/cnnmmd](https://github.com/cnnmmd/cnnmmd)
 
 For more details, see:  
-[https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_tlkmcu.htm](https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_tlkmcu.xht)
+[https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_tlkmcu.htm](https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_tlkmcu.htm)
 
 ## 概要
 
